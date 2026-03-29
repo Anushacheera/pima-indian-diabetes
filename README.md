@@ -1,1 +1,1 @@
-# pima-indian-diabetes
+# indian-diabetes by using ML
